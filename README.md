@@ -15,3 +15,11 @@ To build the Docker image, run the following command in the root directory of th
 
 ```bash
 docker build -t pack-calculator .
+
+```
+
+## Or you can use ready-made working docker image from docker hub
+
+- amsokolov/pack-calculator
+## it is public 
+
